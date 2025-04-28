@@ -1,0 +1,6 @@
+product_id,product_name,price,category_id
+1,Laptop,1200,1
+2,Keyboard,100,2
+3,Mouse,50,2
+4,Monitor,300,1
+5,Desk,250,3
