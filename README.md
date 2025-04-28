@@ -24,3 +24,6 @@ The project is aimed at beginners-intermediate level who want a practical, end-t
 - Jupyter Notebook
 
 ---
+Visualization of merged data
+
+![ETL_image1](https://github.com/nourlybeque/ETL_warehouse_project/blob/7d28c01a5048115be1764e53b5534734e9fdd0eb/ETL_images/ETL_image1.png)
